@@ -1,0 +1,43 @@
+body{
+    margin: 0; 
+    padding: 0;
+    border: 0;
+}
+
+.wrapper {
+    display: flex;
+    width: 810px;
+    margin: 0 auto;
+}
+
+.card {
+/*    background-color:greenyellow; */
+    width: 250px;
+    padding: 10px;
+}
+
+.image {
+    width: 250px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 0px 10px 10px;
+}
+
+.header-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.header-title {
+    margin-left: 10px;
+
+}
+
+.image-wrapper {
+    margin-bottom: 10px;
+}
+
